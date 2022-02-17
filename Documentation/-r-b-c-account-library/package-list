@@ -1,0 +1,31 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:com.rbc.rbcaccountlibrary////PointingToDeclaration/-r-b-c-account-library/com.rbc.rbcaccountlibrary/index.html
+$dokka.location:com.rbc.rbcaccountlibrary/Account///PointingToDeclaration/-r-b-c-account-library/com.rbc.rbcaccountlibrary/-account/index.html
+$dokka.location:com.rbc.rbcaccountlibrary/Account/balance/#/PointingToDeclaration/-r-b-c-account-library/com.rbc.rbcaccountlibrary/-account/balance.html
+$dokka.location:com.rbc.rbcaccountlibrary/Account/name/#/PointingToDeclaration/-r-b-c-account-library/com.rbc.rbcaccountlibrary/-account/name.html
+$dokka.location:com.rbc.rbcaccountlibrary/Account/number/#/PointingToDeclaration/-r-b-c-account-library/com.rbc.rbcaccountlibrary/-account/number.html
+$dokka.location:com.rbc.rbcaccountlibrary/Account/type/#/PointingToDeclaration/-r-b-c-account-library/com.rbc.rbcaccountlibrary/-account/type.html
+$dokka.location:com.rbc.rbcaccountlibrary/AccountProvider///PointingToDeclaration/-r-b-c-account-library/com.rbc.rbcaccountlibrary/-account-provider/index.html
+$dokka.location:com.rbc.rbcaccountlibrary/AccountProvider/getAccountsList/#/PointingToDeclaration/-r-b-c-account-library/com.rbc.rbcaccountlibrary/-account-provider/get-accounts-list.html
+$dokka.location:com.rbc.rbcaccountlibrary/AccountProvider/getAdditionalCreditCardTransactions/#kotlin.String/PointingToDeclaration/-r-b-c-account-library/com.rbc.rbcaccountlibrary/-account-provider/get-additional-credit-card-transactions.html
+$dokka.location:com.rbc.rbcaccountlibrary/AccountProvider/getTransactions/#kotlin.String/PointingToDeclaration/-r-b-c-account-library/com.rbc.rbcaccountlibrary/-account-provider/get-transactions.html
+$dokka.location:com.rbc.rbcaccountlibrary/AccountType.CHEQUING///PointingToDeclaration/-r-b-c-account-library/com.rbc.rbcaccountlibrary/-account-type/-c-h-e-q-u-i-n-g/index.html
+$dokka.location:com.rbc.rbcaccountlibrary/AccountType.CHEQUING/name/#/PointingToDeclaration/-r-b-c-account-library/com.rbc.rbcaccountlibrary/-account-type/-c-h-e-q-u-i-n-g/name.html
+$dokka.location:com.rbc.rbcaccountlibrary/AccountType.CHEQUING/ordinal/#/PointingToDeclaration/-r-b-c-account-library/com.rbc.rbcaccountlibrary/-account-type/-c-h-e-q-u-i-n-g/ordinal.html
+$dokka.location:com.rbc.rbcaccountlibrary/AccountType.CREDIT_CARD///PointingToDeclaration/-r-b-c-account-library/com.rbc.rbcaccountlibrary/-account-type/-c-r-e-d-i-t_-c-a-r-d/index.html
+$dokka.location:com.rbc.rbcaccountlibrary/AccountType.CREDIT_CARD/name/#/PointingToDeclaration/-r-b-c-account-library/com.rbc.rbcaccountlibrary/-account-type/-c-r-e-d-i-t_-c-a-r-d/name.html
+$dokka.location:com.rbc.rbcaccountlibrary/AccountType.CREDIT_CARD/ordinal/#/PointingToDeclaration/-r-b-c-account-library/com.rbc.rbcaccountlibrary/-account-type/-c-r-e-d-i-t_-c-a-r-d/ordinal.html
+$dokka.location:com.rbc.rbcaccountlibrary/AccountType.LOAN///PointingToDeclaration/-r-b-c-account-library/com.rbc.rbcaccountlibrary/-account-type/-l-o-a-n/index.html
+$dokka.location:com.rbc.rbcaccountlibrary/AccountType.LOAN/name/#/PointingToDeclaration/-r-b-c-account-library/com.rbc.rbcaccountlibrary/-account-type/-l-o-a-n/name.html
+$dokka.location:com.rbc.rbcaccountlibrary/AccountType.LOAN/ordinal/#/PointingToDeclaration/-r-b-c-account-library/com.rbc.rbcaccountlibrary/-account-type/-l-o-a-n/ordinal.html
+$dokka.location:com.rbc.rbcaccountlibrary/AccountType.MORTGAGE///PointingToDeclaration/-r-b-c-account-library/com.rbc.rbcaccountlibrary/-account-type/-m-o-r-t-g-a-g-e/index.html
+$dokka.location:com.rbc.rbcaccountlibrary/AccountType.MORTGAGE/name/#/PointingToDeclaration/-r-b-c-account-library/com.rbc.rbcaccountlibrary/-account-type/-m-o-r-t-g-a-g-e/name.html
+$dokka.location:com.rbc.rbcaccountlibrary/AccountType.MORTGAGE/ordinal/#/PointingToDeclaration/-r-b-c-account-library/com.rbc.rbcaccountlibrary/-account-type/-m-o-r-t-g-a-g-e/ordinal.html
+$dokka.location:com.rbc.rbcaccountlibrary/AccountType///PointingToDeclaration/-r-b-c-account-library/com.rbc.rbcaccountlibrary/-account-type/index.html
+$dokka.location:com.rbc.rbcaccountlibrary/Transaction///PointingToDeclaration/-r-b-c-account-library/com.rbc.rbcaccountlibrary/-transaction/index.html
+$dokka.location:com.rbc.rbcaccountlibrary/Transaction/amount/#/PointingToDeclaration/-r-b-c-account-library/com.rbc.rbcaccountlibrary/-transaction/amount.html
+$dokka.location:com.rbc.rbcaccountlibrary/Transaction/date/#/PointingToDeclaration/-r-b-c-account-library/com.rbc.rbcaccountlibrary/-transaction/date.html
+$dokka.location:com.rbc.rbcaccountlibrary/Transaction/description/#/PointingToDeclaration/-r-b-c-account-library/com.rbc.rbcaccountlibrary/-transaction/description.html
+com.rbc.rbcaccountlibrary
+
