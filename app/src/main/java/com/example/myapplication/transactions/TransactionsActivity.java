@@ -6,6 +6,7 @@ import android.os.AsyncTask;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
+import android.widget.ImageButton;
 import android.widget.TextView;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
@@ -40,6 +41,13 @@ public class TransactionsActivity extends Activity {
         TextView accountBalance = findViewById(R.id.accounts_balance);
         loadingIndicator = findViewById(R.id.loading_indicator);
         emptyList = findViewById(R.id.empty_list);
+        ImageButton back = findViewById(R.id.backToMain);
+        back.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                onBackPressed();
+            }
+        });
 
         Intent intent = getIntent();
         String accountNumberString = intent.getStringExtra(SingletonModel.ACCOUNT_NUMBER);
