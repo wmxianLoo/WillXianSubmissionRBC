@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <!-- Accounts -->
+    <string name="accounts_title">Accounts</string>
+
+    <!-- Transactions -->
+    <string name="transactions_loading_indicator">Loading…</string>
+    <string name="transactions_empty_list">No Transactions</string>
+</resources>
